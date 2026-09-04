@@ -11,3 +11,6 @@ Repositorio destinado al desarrollo y entrega de la primera evaluación, enfocad
 ## Estructura del Repositorio
 - `rendimiento_academico_limpio.csv`: Dataset final tratado, estructurado y listo para modelamiento.
 - Archivo Jupyter Notebook (`.ipynb`) con todo el código del flujo analítico y de transformación.
+
+## Presentación Link
+https://canva.link/49abp48cpom00ky
