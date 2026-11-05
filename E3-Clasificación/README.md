@@ -33,3 +33,6 @@ El análisis se centra en las siguientes métricas de los clientes:
 ## Uso y Ejecución
 
 Para replicar este análisis, asegúrate de tener instaladas las dependencias de manipulación de datos y visualización (Pandas y Seaborn). Al ejecutar las celdas del Jupyter Notebook, se generarán los logs de calidad de datos en consola y las gráficas comparativas (`boxplot`) que cruzan las variables predictoras contra el indicador de impago.
+
+
+link presentación: https://canva.link/e361tccfjaq5o64
